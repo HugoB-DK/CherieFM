@@ -5,7 +5,7 @@
         <a href="radios" class="text-center"> <img class="h-auto mx-auto" src="~assets/radio_blanc.svg">Radios</a>
       </li>
       <li class="text-white flex flex-col justify-center">
-        <a href="podcast" class="text-center"> <img class="h-auto mx-auto" src="~assets/podcast_blanc.svg">Podcasts</a>
+        <a href="podcasts" class="text-center"> <img class="h-auto mx-auto" src="~assets/podcast_blanc.svg">Podcasts</a>
       </li>
       <li class="text-white flex flex-col justify-center">
         <a href="blindtest" class="text-center"> <img class="h-auto mx-auto" src="~assets/jeux_blanc.svg">Blindtest</a>
