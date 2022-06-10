@@ -1,5 +1,5 @@
 <template>
-  <div class="block-content-header">
+  <div class="block-content-header sticky top-100">
     <ul class="float-right nav-bar flex w-10/12 mt-8 py-5 gap-5 overflow-hidden">
       <li class="text-white flex flex-col justify-center pl-5">
         <a href="radios" class="text-center"> <img class="h-auto mx-auto" src="~assets/radio_blanc.svg">Radios</a>
@@ -33,6 +33,8 @@ export default {
   border-top-left-radius: 30px;
   border-bottom-left-radius: 30px;
   background-color: #D4000D;
+box-shadow: 0px 3px 6px #00000029;
+
 }
 .block-content-header{
   height: 150px;
