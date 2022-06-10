@@ -51,7 +51,7 @@
             </div>
           </label>
         </div>
-        <div class="my-8 text-center">
+        <div class="mt-4 mb-20 text-center">
           <button class="button-color text-white px-6 py-2 rounded-xl ">
             Je valide mon vote
           </button>
