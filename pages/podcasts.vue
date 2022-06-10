@@ -8,7 +8,7 @@
 
       <h2>Catégories</h2>
       <div class="grid grid-cols-2 gap-1">
-        <div class="card pastel-green h-16 text-white rounded-lg relative overflow-hidden flex items-center mb-6">
+        <div class="card pastel-green h-16 text-white rounded-lg relative overflow-hidden flex items-center mb-6 shadow-lg">
           <h3 class="ml-4">
             Actualités
           </h3>
@@ -17,7 +17,7 @@
           </div>
         </div>
 
-        <div class="card pastel-yellow h-16 text-white rounded-lg relative overflow-hidden flex items-center mb-6">
+        <div class="card pastel-yellow h-16 text-white rounded-lg relative overflow-hidden flex items-center mb-6 shadow-lg">
           <h3 class="ml-4">
             Ecoutez l'histoire
           </h3>
@@ -26,7 +26,7 @@
           </div>
         </div>
 
-        <div class="card pastel-gray h-16 text-white rounded-lg relative overflow-hidden flex items-center mb-6">
+        <div class="card pastel-gray h-16 text-white rounded-lg relative overflow-hidden flex items-center mb-6 shadow-lg">
           <h3 class="ml-4">
             Enfants
           </h3>
@@ -35,7 +35,7 @@
           </div>
         </div>
 
-        <div class="card pastel-black h-16 text-white rounded-lg relative overflow-hidden flex items-center mb-6">
+        <div class="card pastel-black h-16 text-white rounded-lg relative overflow-hidden flex items-center mb-6 shadow-lg">
           <h3 class="ml-4">
             Lifestyle et méditation
           </h3>
@@ -44,7 +44,7 @@
           </div>
         </div>
 
-        <div class="card pastel-yellow h-16 text-white rounded-lg relative overflow-hidden flex items-center mb-6">
+        <div class="card pastel-yellow h-16 text-white rounded-lg relative overflow-hidden flex items-center mb-6 shadow-lg">
           <h3 class="ml-4">
             Actualités
           </h3>
@@ -53,7 +53,7 @@
           </div>
         </div>
 
-        <div class="card pastel-blue h-16 text-white rounded-lg relative overflow-hidden flex items-center mb-6">
+        <div class="card pastel-blue h-16 text-white rounded-lg relative overflow-hidden flex items-center mb-6 shadow-lg">
           <h3 class="ml-4">
             Ecoutez l'histoire
           </h3>
