@@ -8,7 +8,6 @@
         <img
           class="w-1/12 h-auto"
           src="~assets/download_rouge.svg"
-          @onClick="promptInstall"
         >
       </div>
     </div>
@@ -18,14 +17,8 @@
   </header>
 </template>
 <script>
-import { BeforeInstallPromptEvent } from 'vue-pwa-install'
-
 export default {
-  name: 'HeaderComponent',
-  deferredPrompt: BeforeInstallPromptEvent,
-  promptInstall () {
-    this.deferredPrompt.prompt()
-  }
+  name: 'HeaderComponent'
 }
 
 </script>
