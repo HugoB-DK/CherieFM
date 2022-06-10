@@ -1,5 +1,5 @@
 <template>
-  <footer class="absolute bottom-0 footer">
+  <footer class="footer">
     <audio controls>
       <source src="http://scdn.nrjaudio.fm/adwz2/fr/30201/mp3_128.mp3?origine=fluxradios" type="audio/mp3">
     </audio>
